@@ -9,7 +9,9 @@
   A fully offline, voice-controlled personal AI assistant with a warm Hinglish personality,
   built to guide, teach, and take care of you — running entirely on your own machine.
 </p>
-
+<p align="center">
+  <img src="syta-chat.png" alt="SYTA in action" width="750">
+</p>
 ---
 
 ## ✨ What is SYTA?
