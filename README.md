@@ -10,7 +10,16 @@
   built to guide, teach, and take care of you — running entirely on your own machine.
 </p>
 <p align="center">
-  <img src="syta-chat.png" alt="SYTA in action" width="750">
+  <img src="syta-chat.png" alt="SYTA chatting with Abhi" width="750">
+</p>
+
+<p align="center"><em>SYTA — warm, offline, always ready to help</em></p>
+
+<p align="center">
+  <img src="roadmap.png" alt="SYTA making a 9-month roadmap" width="750">
+</p>
+
+<p align="center"><em>Building a personalized 9-month learning roadmap — fully offline</em></p>
 </p>
 ---
 
