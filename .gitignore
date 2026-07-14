@@ -1,0 +1,25 @@
+# ── SYTA / Sita — do NOT publish these ────────────────────────────
+# Personal data: your saved conversation history, goals and meetings.
+memory/
+sita_memory.json
+
+# Runtime logs (can contain fragments of what you typed/said).
+logs/
+*.log
+
+# Screenshots captured by the 'screenshot' action — may show anything
+# that was on your screen.
+ss_*.png
+
+# ── Python build / cache artifacts ────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+env/
+build/
+dist/
+*.egg-info/

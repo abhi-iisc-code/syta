@@ -1,0 +1,28 @@
+# SYTA — Python dependencies
+# Install with:  pip install -r requirements.txt
+
+# ── Core AI ──────────────────────────────
+requests>=2.31.0            # talks to Ollama's local API
+
+# ── Speech-to-Text (voice input) ─────────
+faster-whisper>=1.0.0       # offline speech recognition
+sounddevice>=0.4.6          # microphone recording
+soundfile>=0.12.1           # audio file handling
+numpy>=1.24.0               # audio array processing
+
+# ── Text-to-Speech (voice output) ────────
+pyttsx3>=2.90               # offline text-to-speech
+
+# ── System control ───────────────────────
+pyautogui>=0.9.54           # keyboard/mouse control, screenshots
+psutil>=5.9.0               # battery, storage, CPU info
+screen-brightness-control>=0.21.0   # screen brightness control
+
+# ── Optional: web bridge ─────────────────
+# Uncomment if using syta_web_bridge.py
+# websockets>=12.0
+
+# ── Notes ────────────────────────────────
+# Pillow is pulled in automatically by pyautogui for screenshots.
+# Ollama is NOT a pip package — install separately from https://ollama.com
+# Then run:  ollama pull llama3

@@ -1,0 +1,9 @@
+# SYTA / Sita v6 dependencies
+# Install: py -3.11 -m pip install -r C:\Sita\requirements.txt
+requests
+pyttsx3
+sounddevice
+faster-whisper
+pyautogui
+psutil
+screen-brightness-control
